@@ -1,6 +1,6 @@
 # Install RITA on Security Onion
 ----------------------------------------------------------------------
-## I edited this script to load docker images from offline sources- apasquel
+## I edited weslambert's script to load docker images from offline sources- apasquel
 ----------------------------------------------------------------------
 
 ## Intended for Standalone and Sensor nodes.
